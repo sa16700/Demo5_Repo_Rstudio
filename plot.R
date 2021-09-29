@@ -5,3 +5,7 @@ plot(1:10)
 plot(rnorm(10),1:10)
 #Ahmed Changes
 plot(rnorm(10),1:10)
+
+##############
+# Added new comments 
+plot(rnorm(100))
