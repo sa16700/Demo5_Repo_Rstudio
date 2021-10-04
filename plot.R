@@ -9,3 +9,6 @@ plot(rnorm(10),1:10)
 ##############
 # Added new comments 
 plot(rnorm(100))
+#########
+#Changes for Quiz
+summary(cars)
